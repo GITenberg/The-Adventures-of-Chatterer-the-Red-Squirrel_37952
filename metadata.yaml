@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/717
     wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37952#The-Adventures-of-Chatterer-the-Red-Squirrel
 gutenberg_issued: '2011-11-07'
 gutenberg_type: Text
 identifiers:
